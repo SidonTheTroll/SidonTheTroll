@@ -22,7 +22,8 @@ Don't ask me about what I did in 2020.
   Github Stats
  </p>
 </p>
-<p aling='center' dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/40c335a6c6c4a9cbade9a56d4d59ee5e337b88fc9a6e5fc409c04915462bcd48/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d5369646f6e54686554726f6c6c2673686f775f69636f6e733d74727565267468656d653d6d65726b6f"><img src="https://camo.githubusercontent.com/40c335a6c6c4a9cbade9a56d4d59ee5e337b88fc9a6e5fc409c04915462bcd48/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d5369646f6e54686554726f6c6c2673686f775f69636f6e733d74727565267468656d653d6d65726b6f" alt="GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=SidonTheTroll&amp;show_icons=true&amp;theme=merko" style="max-width: 100%;"></a></p>
+<p aling='center'>
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/40c335a6c6c4a9cbade9a56d4d59ee5e337b88fc9a6e5fc409c04915462bcd48/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d5369646f6e54686554726f6c6c2673686f775f69636f6e733d74727565267468656d653d6d65726b6f"><img src="https://camo.githubusercontent.com/40c335a6c6c4a9cbade9a56d4d59ee5e337b88fc9a6e5fc409c04915462bcd48/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d5369646f6e54686554726f6c6c2673686f775f69636f6e733d74727565267468656d653d6d65726b6f" alt="GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=SidonTheTroll&amp;show_icons=true&amp;theme=merko" style="max-width: 100%;"></a></p>
 
 ![Discord Presence](https://lanyard.cnrad.dev/api/728604179186188368)
 
