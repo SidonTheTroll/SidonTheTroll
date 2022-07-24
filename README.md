@@ -11,3 +11,5 @@ Creating an instagram account was a mistake. I mostly use [my Discord](https://d
 I don't like crouds and loud noises and its the reason why I'm hated in the society. 
 
 Just keep it simple and don't use normie emojis while talking with me becuse is get PTSD by them.
+
+Don't ask me about what I did in 2020.
