@@ -36,7 +36,7 @@ Don't ask me about what I did in 2020.
  <h2 align="center">
  </h2>
  <p align="center">
-  Discord Presence
+  Discord
  </p>
 </p>
 
