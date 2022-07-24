@@ -24,6 +24,17 @@ Don't ask me about what I did in 2020.
 </p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SidonTheTroll&show_icons=true&theme=merko)
- 
+
+<p align="center">
+ <h2 align="center">
+ </h2>
+ <p align="center">
+  Discord Presence
+ </p>
+</p>
+
+
 ![Discord Presence](https://lanyard.cnrad.dev/api/728604179186188368)
 
+
+<a href="https://discord.com/users/728604179186188368"><img src="https://lanyard.cnrad.dev/api/728604179186188368?&amp;borderRadius=0px" alt="discord presence"></a>
