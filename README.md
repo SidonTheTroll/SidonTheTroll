@@ -14,4 +14,27 @@ Just keep it simple and don't use normie emojis while talking with me becuse is 
 
 Don't ask me about what I did in 2020.
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=SidonTheTroll&theme=merko)
+
+<p align="center">
+ <h2 align="center">
+ </h2>
+ <p align="center">
+  Github Stats
+ </p>
+</p>
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=SidonTheTroll&count_private=true&show_icons=true&line_height=20&show_icons=true&theme=merko" align="center" alt="Stats" />
+</p>
+
+<p align="center">
+ <h2 align="center">
+ </h2>
+ <p align="center">
+  Discord Status
+ </p>
+</p>
+ <p align="center">
+ <img src="https://lanyard.cnrad.dev/api/728604179186188368" alt="Discord Status">
+</p>
+
+
