@@ -5,9 +5,9 @@ I'm a student in HS and codes sometimes has hobby. (Don't tell others that I lik
 Friendship over with Windows not Linux is my best friend. 
 
 Distros I'm familiar with:
-Ubuntu (too slow)
-Kali Linux (unmaintained repositories) 
-Arch Linux (how the hell do I use pacman?)
+Ubuntu (too slow),
+Kali Linux (unmaintained repositories), 
+Arch Linux (how the hell do I use pacman?) and
 Debian (Primary distro without any problem)
 
 This person has a lot of trust issues and don't think of pulling him out of depression soon. 
