@@ -35,6 +35,16 @@ Don't ask me about what I did in 2020.
  <h2 align="center">
  </h2>
  <p align="center">
+  Languages I use 
+ </p>
+</p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SidonTheTroll&layout=compact&theme=dracula)]
+
+<p align="center">
+ <h2 align="center">
+ </h2>
+ <p align="center">
   Discord
  </p>
 </p>
