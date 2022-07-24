@@ -4,7 +4,7 @@ I'm a student in HS and codes sometimes has hobby. (Don't tell others that I lik
 
 Friendship over with Windows not Linux is my best friend. 
 
-Distros im familiar with: 
+Distros I'm familiar with:
     Ubuntu (too slow)
     Kali Linux (Unmaintained repositories)
     Arch Linux (hard to learn)
