@@ -34,7 +34,7 @@ Don't ask me about what I did in 2020.
  </p>
 </p>
  <p align="center">
- <img src="https://lanyard.cnrad.dev/api/728604179186188368" alt="Discord Status">
+ <img src="https://lanyard.cnrad.dev/api/:728604179186188368" alt="Discord Status">
 </p>
 
 
