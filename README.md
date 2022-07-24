@@ -39,7 +39,7 @@ Don't ask me about what I did in 2020.
  </p>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SidonTheTroll&layout=compact&theme=dracula)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SidonTheTroll&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
  <h2 align="center">
