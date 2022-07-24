@@ -15,4 +15,7 @@ Just keep it simple and don't use normie emojis while talking with me becuse is 
 Don't ask me about what I did in 2020.
 
 
+
+
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=SidonTheTroll&theme=radical)
