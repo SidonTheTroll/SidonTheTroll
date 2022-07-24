@@ -23,7 +23,7 @@ Don't ask me about what I did in 2020.
  </p>
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SidonTheTroll&show_icons=true&theme=merko)
  
 ![Discord Presence](https://lanyard.cnrad.dev/api/728604179186188368)
 
