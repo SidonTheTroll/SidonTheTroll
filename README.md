@@ -4,6 +4,13 @@ I'm a student in HS and codes sometimes has hobby. (Don't tell others that I lik
 
 Friendship over with Windows not Linux is my best friend. 
 
+Distros im familiar with: 
+    Ubuntu (too slow)
+    Kali Linux (Unmaintained repositories)
+    Arch Linux (hard to learn)
+    Debian (currently using without any worries)
+
+
 This person has a lot of trust issues and don't think of pulling him out of depression soon. 
 
 Creating an instagram account was a mistake. I mostly use [my Discord](https://discord.com/users/728604179186188368) for talking with friends. 
@@ -34,4 +41,4 @@ Don't ask me about what I did in 2020.
 </p>
 
 
-![Discord Presence](https://lanyard.cnrad.dev/api/728604179186188368)
+[![Discord Presence](https://lanyard.cnrad.dev/api/728604179186188368)](https://discord.com/users/728604179186188368))
