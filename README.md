@@ -20,6 +20,7 @@ Just keep it simple and don't use normie emojis while talking with me becuse is 
 
 Don't ask me about what I did in 2020.
 
+I'm also an amateur hacker (hacked my own dummy discord account and it got banned)
 
 <p align="center">
  <h2 align="center">
