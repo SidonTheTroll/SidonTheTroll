@@ -37,4 +37,4 @@ Don't ask me about what I did in 2020.
  <img src="https://lanyard.cnrad.dev/api/:728604179186188368" alt="Discord Status">
 </p>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/728604179186188368)](https://discord.com/users/728604179186188368)
+![Discord Presence](https://lanyard.cnrad.dev/api/728604179186188368)](https://discord.com/users/728604179186188368)
