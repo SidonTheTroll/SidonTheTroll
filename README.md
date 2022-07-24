@@ -29,7 +29,7 @@ Don't ask me about what I did in 2020.
  </p>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SidonTheTroll&show_icons=true&theme=merko)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SidonTheTroll&show_icons=true&theme=merko)
 
 <p align="center">
  <h2 align="center">
@@ -39,7 +39,7 @@ Don't ask me about what I did in 2020.
  </p>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SidonTheTroll&layout=compact&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SidonTheTroll&layout=compact&theme=dracula)]
 
 <p align="center">
  <h2 align="center">
