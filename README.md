@@ -30,7 +30,7 @@ I'm also an amateur hacker (hacked my own dummy discord account and it got banne
  </p>
 </p>
 
-![Sidon's Github stats](https://github-readme-stats.vercel.app/api?username=SidonTheTroll&theme=merko&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=SidonTheTroll&theme=merko&show_icons=true&count_private=true)
 
 <p align="center">
  <h2 align="center">
