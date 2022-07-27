@@ -40,7 +40,7 @@ I'm also an amateur hacker (hacked my own dummy discord account and it got banne
  </p>
 </p>
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=SidonTheTroll&theme=gruvbox)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SidonTheTroll&theme=gruvbox)
 
 <p align="center">
  <h2 align="center">
