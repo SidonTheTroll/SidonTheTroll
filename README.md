@@ -4,7 +4,7 @@ Sup? [Sidon](https://www.youtube.com/watch?v=dQw4w9WgXcQ) here! You can also cal
 
 I'm a HS student and codes sometimes has hobby. (Don't tell others that I like to exploit stuff) 
 
-Friendship over with Windows not Linux is my best friend. 
+Friendship over with Windows now Linux is my best friend. 
 
 Distros I'm familiar with:
 Ubuntu (too slow),
