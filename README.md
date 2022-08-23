@@ -30,7 +30,7 @@ I'm also an amateur hacker (hacked my own dummy discord account and it got banne
  </p>
 </p>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=SidonTheTroll&theme=merko&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=SidonTheTroll&theme=merko&show_icons=true)
 
 <p align="center">
  <h2 align="center">
@@ -40,7 +40,7 @@ I'm also an amateur hacker (hacked my own dummy discord account and it got banne
  </p>
 </p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SidonTheTroll&theme=gruvbox)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SidonTheTroll&theme=gruvbox)
 
 <p align="center">
  <h2 align="center">
