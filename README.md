@@ -16,7 +16,7 @@ This person has a lot of trust issues and don't think of pulling him out of depr
 
 Creating an instagram account was a mistake. I mostly use [my Discord](https://discord.com/users/728604179186188368) for talking with friends. 
 
-I don't like crouds and loud noises and its the reason why I'm hated in the society. 
+I don't like crowds and loud noises and its the reason why I'm hated in the society. 
 
 Just keep it simple and don't use normie emojis while talking with me becuse is get PTSD by them.
 
