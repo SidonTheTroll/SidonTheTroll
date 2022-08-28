@@ -38,4 +38,6 @@ I'm also an amateur hacker (hacked my own dummy discord account and it got banne
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/728604179186188368)](https://discord.com/users/728604179186188368)
 
-<p style="text-align:center;"><img src="https://tenor.com/view/devil-may-cry-devil-may-cry5-devil-may-cry-vergil-devil-may-cry5vergil-vergil-gif-22408243" alt="Conclusion"></p>
+<p>
+  <img src="https://imgur.com/6B3eoR9.gif" alt="Conclusion">
+</p>
