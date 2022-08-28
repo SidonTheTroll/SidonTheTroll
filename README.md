@@ -39,5 +39,5 @@ I'm also an amateur hacker (hacked my own dummy discord account and it got banne
 [![Discord Presence](https://lanyard.cnrad.dev/api/728604179186188368)](https://discord.com/users/728604179186188368)
 
 <p>
-  <img src="https://imgur.com/6B3eoR9.gif" alt="Conclusion">
+  <img src="https://imgur.com/6B3eoR9.gif">
 </p>
