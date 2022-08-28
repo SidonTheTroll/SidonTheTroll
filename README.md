@@ -24,33 +24,18 @@ Don't ask me about what I did in 2020.
 
 I'm also an amateur hacker (hacked my own dummy discord account and it got banned)
 
-<p align="center">
- <h2 align="center">
- </h2>
- <p align="center">
-  Github Statistics
- </p>
-</p>
+---
+
+## Github Statistics
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=SidonTheTroll&theme=merko&show_icons=true)
 
-<p align="center">
- <h2 align="center">
- </h2>
- <p align="center">
-  Languages I use 
- </p>
-</p>
-
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SidonTheTroll&theme=gruvbox)
 
-<p align="center">
- <h2 align="center">
- </h2>
- <p align="center">
-  Discord
- </p>
-</p>
+---
 
+## Discord
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/728604179186188368)](https://discord.com/users/728604179186188368)
+
+<p style="text-align:centre;"><img src="https://imgur.com/Cl3hHvw.gif"></>
