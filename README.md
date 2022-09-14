@@ -36,6 +36,6 @@ I'm also an amateur hacker (hacked my own dummy discord account and it got banne
 
 ## Discord
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/728604179186188368)](https://discord.com/users/728604179186188368)
+[![Discord Presence](https://lanyard.cnrad.dev/api/728604179186188368?idleMessage=Regretting)](https://discord.com/users/728604179186188368)
 
 ![ok](https://imgur.com/qs8dO9U.gif)
