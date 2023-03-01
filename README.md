@@ -12,7 +12,7 @@ Creating an instagram account was a mistake. I mostly use [my Discord](https://d
 
 ## Github Statistics
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SidonTheTroll&show_icons=true&include_all_commits=true&theme=merko&hide_border=true" alt="github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidonTheTroll&theme=gruvbox&hide_border=true" /></a> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=SidonTheTroll&show_icons=true&include_all_commits=true&theme=merko&hide_border=true" alt="github stats" /></a> | ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidonTheTroll&theme=gruvbox&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
