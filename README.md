@@ -4,10 +4,10 @@ Sup? [Sidon](https://www.youtube.com/watch?v=dQw4w9WgXcQ) here!
 
 Full-time GNU/Linux user
 
-Distros: 
-Ubuntu
-Kali Linux 
-Arch Linux
+Distros:<br>
+Ubuntu<br>
+Kali<br>
+Arch<br>
 Debian (primary)
 
 ---
