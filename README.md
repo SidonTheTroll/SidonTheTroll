@@ -1,6 +1,6 @@
 # About me
 
-Sup? [Sidon](https://www.youtube.com/watch?v=dQw4w9WgXcQ) here!<kr>
+Sup? [Sidon](https://www.youtube.com/watch?v=dQw4w9WgXcQ) here!<br>
 Uses Qwerty, Dvorak and Colemak 
 
 <a href="https://discord.com/users/728604179186188368">
