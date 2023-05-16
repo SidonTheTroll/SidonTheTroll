@@ -17,7 +17,7 @@ Arch<br>
 Debian (primary)
 
 - Familiar with<br> 
-[![My Skills](https://skillicons.dev/icons?i=docker,linux,bash,vim,neovim,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,linux,bash,vim,neovim,py&theme=dark)](https://skillicons.dev)
 
 
  
