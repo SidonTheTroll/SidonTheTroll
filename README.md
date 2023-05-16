@@ -4,9 +4,11 @@ Sup? [Sidon](https://www.youtube.com/watch?v=dQw4w9WgXcQ) here!
 
 Full-time GNU/Linux user
 
-Distros: Ubuntu (too slow), Kali Linux (too suspicious), Arch Linux (how the hell do I use pacman?) and Debian (Primary distro without any problem)
-
-Creating an instagram account was a mistake. I mostly use [my Discord](https://discord.com/users/728604179186188368) for talking with friends.
+Distros: 
+Ubuntu
+Kali Linux 
+Arch Linux
+Debian (primary)
 
 ---
 
