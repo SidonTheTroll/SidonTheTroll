@@ -2,13 +2,16 @@
 
 Sup? [Sidon](https://www.youtube.com/watch?v=dQw4w9WgXcQ) here! 
 
-Full-time GNU/Linux user
+- Full-time GNU/Linux user
 
-Distros:<br>
+- Distros:<br>
 Ubuntu<br>
 Kali<br>
 Arch<br>
 Debian (primary)
+
+- Familiar with<br> 
+[![My Skills](https://skillicons.dev/icons?i=docker,linux,bash,vim,neovim,py&perline=3)](https://skillicons.dev)
 
 ---
 
