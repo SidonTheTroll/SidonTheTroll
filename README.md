@@ -1,7 +1,4 @@
 # About me
-
-![gif](https://media.tenor.com/05rf6RDSGboAAAAC/aesthetic-anime.gif)
-
 ---
 Sup? [Sidon](https://www.youtube.com/watch?v=dQw4w9WgXcQ) here! 
 
