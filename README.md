@@ -1,6 +1,7 @@
 # About me
 
-Sup? [Sidon](https://www.youtube.com/watch?v=dQw4w9WgXcQ) here! 
+Sup? [Sidon](https://www.youtube.com/watch?v=dQw4w9WgXcQ) here!<kr>
+Uses Qwerty, Dvorak and Colemak 
 
 <a href="https://discord.com/users/728604179186188368">
   <img align="right" src="https://lanyard.cnrad.dev/api/728604179186188368" alt="Discord Status">
