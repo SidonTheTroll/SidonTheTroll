@@ -1,6 +1,6 @@
 # About me
 
-Hello world. 
+Hello world.<br>
 I use Qwerty, Dvorak and Colemak 
 
 <a href="https://discord.com/users/728604179186188368">
