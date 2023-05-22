@@ -1,7 +1,7 @@
 # About me
 
-Sup? [Sidon](https://www.youtube.com/watch?v=dQw4w9WgXcQ) here!<br>
-Uses Qwerty, Dvorak and Colemak 
+Hello world.<br>
+I use Qwerty, Dvorak and Colemak 
 
 <a href="https://discord.com/users/728604179186188368">
   <img align="right" src="https://lanyard.cnrad.dev/api/728604179186188368?idleMessage=Probably%20doing%20homework%20or%20coding." alt="Discord Status">
