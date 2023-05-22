@@ -30,5 +30,5 @@ Debian (primary)
 
 ## Github Statistics
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=SidonTheTroll&show_icons=true&count_private=true&theme=merko&hide_border=true" alt="github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidonTheTroll&theme=gruvbox&hide_border=true" /></a> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=SidonTheTroll&theme=merko&show_icons=true&count_private=true&hide_border=true" alt="github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidonTheTroll&theme=gruvbox&hide_border=true" /></a> |
 | ------------- | ------------- |
