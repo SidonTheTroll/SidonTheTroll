@@ -1,7 +1,7 @@
 # About me
 
 Hello world.<br>
-I use Qwerty, Dvorak and Colemak 
+Coding hoddyist and GNU/Linux enthusiast.
 
 <a href="https://discord.com/users/728604179186188368">
   <img align="right" src="https://lanyard.cnrad.dev/api/728604179186188368?idleMessage=Probably%20doing%20homework%20or%20coding." alt="Discord Status">
