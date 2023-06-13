@@ -1,5 +1,4 @@
 # About me
-![nya](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 Hello world.<br>
 
 
@@ -23,11 +22,6 @@ Debian (primary)
 - Familiar with<br> 
 [![My Skills](https://skillicons.dev/icons?i=docker,linux,bash,vim,neovim,py&theme=dark)](https://skillicons.dev)
 
-
-
-
-
-![nya](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 ---
 
 ## Github Statistics
