@@ -1,12 +1,13 @@
 # About me
 Hello world.<br>
 
-
-Coding hobbyist and GNU/Linux enthusiast.
-
 <a href="https://discord.com/users/728604179186188368">
   <img align="right" src="https://lanyard.cnrad.dev/api/728604179186188368?idleMessage=Probably%20doing%20homework%20or%20coding." alt="Discord Status">
 </a>
+
+Coding hobbyist and GNU/Linux enthusiast.
+
+
 
 
 
@@ -20,6 +21,10 @@ Arch<br>
 Debian (primary)
 
 - Familiar with<br> 
+<a href = "">
+  <img align = "right" src = "https://media.discordapp.net/attachments/876696663060774942/1126887337943638066/contact-me-by-sidonthetroll.png" width = 140 height = 45>
+</a> 
+
 [![My Skills](https://skillicons.dev/icons?i=docker,linux,bash,vim,neovim,py&theme=dark)](https://skillicons.dev)
 
 ---
