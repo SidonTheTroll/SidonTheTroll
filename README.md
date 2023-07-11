@@ -20,7 +20,7 @@ Kali<br>
 Arch<br>
 Debian (primary)
 
-- Familiar with<br> 
+- Specialized in<br> 
 <a href = "https://discord.com/users/728604179186188368">
   <img align = "right" src = "https://media.discordapp.net/attachments/876696663060774942/1126887337943638066/contact-me-by-sidonthetroll.png" width = 140 height = 45>
 </a> 
