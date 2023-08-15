@@ -33,3 +33,10 @@ Debian (primary)
 
 | <img align="center" src="https://readme-card-33c9.vercel.app/api/?username=sidonthetroll&theme=aura&show_icons=true&&hide_border=false" alt="github stats" /></a> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sidonthetroll&theme=aura" alt="sidonthetroll" /></p>| <img align="center" src="https://readme-card-33c9.vercel.app/api/top-langs/?username=sidonthetroll&theme=aura&hide_border=false&layout=pie" /></a> |
 | ------------- | ------------- |
+
+ <img align=center src='https://readme-card-33c9.vercel.app/api/wakatime?username=sidonthetroll&theme=aura&hide_border=false'> </p>
+
+<img
+  src='moe-counter-self.vercel.app'
+  alt="Profile visit"
+/>
