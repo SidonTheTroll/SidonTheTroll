@@ -7,12 +7,7 @@ Hello world.<br>
 
 Coding hobbyist and GNU/Linux enthusiast.
 
-
-
-
-
 - Full-time GNU/Linux user
-
 
 - Distros:<br>
 Ubuntu<br>
@@ -31,5 +26,5 @@ Debian (primary)
 
 ## Github Statistics
 
-| <img align="center" src="https://readme-card-33c9.vercel.app/api/?username=sidonthetroll&theme=aura&show_icons=true&&hide_border=false" alt="github stats" /></a> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sidonthetroll&theme=aura" alt="sidonthetroll" /></p>| <img align="center" src="https://readme-card-33c9.vercel.app/api/top-langs/?username=sidonthetroll&theme=aura&hide_border=false&layout=pie" /></a> |
+| <img align="center" src="https://readme-card-33c9.vercel.app/api/?username=sidonthetroll&theme=aura&show_icons=true&&hide_border=false" alt="github stats" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sidonthetroll&theme=aura" alt="sidonthetroll">| <img align="center" src="https://readme-card-33c9.vercel.app/api/top-langs/?username=sidonthetroll&theme=aura&hide_border=false&layout=pie" height=400><img align=center src='https://readme-card-33c9.vercel.app/api/wakatime?username=sidonthetroll&theme=aura&hide_border=false' width=500> |
 | ------------- | ------------- |
