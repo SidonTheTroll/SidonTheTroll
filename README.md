@@ -7,7 +7,7 @@ Hello world.<br>
 
 Coding hobbyist and GNU/Linux enthusiast.
 
-- Full-time GNU/Linux user
+- Full-time Penguin user
 
 - Distros:<br>
 Ubuntu<br>
