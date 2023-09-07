@@ -28,3 +28,5 @@ Debian (primary)
 
 | <img align="center" src="https://readme-card-33c9.vercel.app/api/?username=sidonthetroll&theme=aura&show_icons=true&&hide_border=false" alt="github stats" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sidonthetroll&theme=aura" alt="sidonthetroll">| <img align="center" src="https://readme-card-33c9.vercel.app/api/top-langs/?username=sidonthetroll&theme=aura&hide_border=false&layout=pie" height=400><img align=center src='https://readme-card-33c9.vercel.app/api/wakatime?username=sidonthetroll&theme=aura&hide_border=false' width=500> |
 | ------------- | ------------- |
+
+<img src = 'https://wakatime.com/share/@sidonthetroll/83a74bc7-5c61-4e5d-a8ac-f1360d8c538d.svg'> 
