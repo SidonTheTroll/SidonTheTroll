@@ -20,7 +20,7 @@ Debian (primary)
   <img align = "right" src = "https://media.discordapp.net/attachments/876696663060774942/1126887337943638066/contact-me-by-sidonthetroll.png" width = 140 height = 45>
 </a> 
 
-[![My Skills](https://skillicons.dev/icons?i=docker,mysql,linux,bash,neovim,py,md,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,mysql,linux,bash,neovim,git,py,md,&theme=dark)](https://skillicons.dev)
 
 ---
 
