@@ -26,7 +26,7 @@ Coding hobbyist and GNU/Linux enthusiast.
             <img align="center" src="https://github-readme-streak-stats-mgna.vercel.app?user=SidonTheTroll&theme=aura" alt="GitHub Streak Stats">
         </td>
         <td>
-            <img align="center" src="https://readme-card-gamma.vercel.app/api/top-langs/?username=sidonthetroll&theme=aura&hide_border=false&layout=pie" height="400">
+            <img align="center" src="https://readme-card-gamma.vercel.app/api/top-langs/?username=sidonthetroll&theme=aura&hide_border=false&layout=compact">
             <img align="center" src="https://readme-card-gamma.vercel.app/api/wakatime?username=sidonthetroll&theme=aura&hide_border=false&layout=compact">
         </td>
     </tr>
