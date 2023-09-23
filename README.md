@@ -19,17 +19,7 @@ Coding hobbyist and GNU/Linux enthusiast.
 
 ## Github Statistics
 
-<table>
-    <tr>
-        <td>
-            <img align="center" src="https://readme-card-gamma.vercel.app/api/?username=sidonthetroll&theme=aura&show_icons=true&rank_icon=percentile&hide_border=false" alt="GitHub Stats">
-            <img align="center" src="https://github-readme-streak-stats-mgna.vercel.app?user=SidonTheTroll&theme=aura" alt="GitHub Streak Stats">
-        </td>
-        <td>
-            <img align="center" src="https://readme-card-gamma.vercel.app/api/top-langs/?username=sidonthetroll&theme=aura&hide_border=false&layout=compact">
-            <img align="center" src="https://readme-card-gamma.vercel.app/api/wakatime?username=sidonthetroll&theme=aura&hide_border=false&layout=compact">
-        </td>
-    </tr>
-</table>
+| ![GitHub Stats](https://readme-cards-gamma.vercel.app/api/?username=sidonthetroll&theme=aura&show_icons=true&rank_icon=percentile&hide_border=sidonthetroll) ![sidonthetroll](https://github-readme-streak-stats-mgna.vercel.app?user=SidonTheTroll&theme=aura) | ![Top Languages](https://readme-card-gamma.vercel.app/api/top-langs/?username=sidonthetroll&theme=aura&hide_border=false&layout=compact) ![Wakatime Stats](https://readme-card-gamma.vercel.app/api/wakatime?username=sidonthetroll&theme=aura&hide_border=false&layout=compact) |
+|-|-|
 
 <img src = 'https://wakatime.com/share/@sidonthetroll/83a74bc7-5c61-4e5d-a8ac-f1360d8c538d.svg'> 
