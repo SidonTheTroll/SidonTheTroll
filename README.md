@@ -10,7 +10,7 @@ Coding hobbyist and GNU/Linux enthusiast.
 
 - Full-time Penguin User
 
-- "GUI is just exercise of the Index finger"
+- "GUI is just exercise of the Index finger."
 
 - Tools & Languages 
 
