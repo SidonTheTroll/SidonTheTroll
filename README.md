@@ -10,7 +10,7 @@ Coding hobbyist and GNU/Linux enthusiast.
 
 - Full-time Penguin User
 
-- Marisa stole the precious code
+- "GUI is just exercise of the Index finger"
 
 - Tools & Languages 
 
