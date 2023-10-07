@@ -14,7 +14,8 @@ Coding hobbyist and GNU/Linux enthusiast.
 
 - Tools & Languages 
 
-[![My Skills](https://skillicons.dev/icons?i=docker,mysql,linux,bash,neovim,git,py,md,&theme=dark)](https://skillicons.dev)<img align='right' src="https://wakatime.com/badge/user/f541b965-608f-40b0-b814-f52e9138cf82.svg?style=flat">
+[![My Skills](https://skillicons.dev/icons?i=docker,mysql,linux,bash,neovim,git,py,md,&theme=dark)](https://skillicons.dev)
+<img align='right' src="https://wakatime.com/badge/user/f541b965-608f-40b0-b814-f52e9138cf82.svg?style=flat">
 
 ## Github Statistics
 
