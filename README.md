@@ -14,13 +14,7 @@ Coding hobbyist and GNU/Linux enthusiast.
 
 - Tools & Languages 
 
-[![My Skills](https://skillicons.dev/icons?i=docker,mysql,linux,bash,neovim,git,py,md,&theme=dark)](https://skillicons.dev)
-
-<a href="https://discord.com/users/728604179186188368">
-  <img align="right" src="https://github.com/SidonTheTroll/SidonTheTroll/assets/70560640/9b56e14e-d337-4544-8d4f-455b493a478b" width="140" height="45" alt="First contact">
-</a> 
-
-<img align='right' src="https://wakatime.com/badge/user/f541b965-608f-40b0-b814-f52e9138cf82.svg?style=flat">
+[![My Skills](https://skillicons.dev/icons?i=docker,mysql,linux,bash,neovim,git,py,md,&theme=dark)](https://skillicons.dev)<img align='right' src="https://wakatime.com/badge/user/f541b965-608f-40b0-b814-f52e9138cf82.svg?style=flat">
 
 ## Github Statistics
 
