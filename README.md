@@ -19,7 +19,8 @@ Tools & Languages:
 
 ## Github Statistics
 
-| ![GitHub Stats](https://readme-card-gamma.vercel.app/api/?username=sidonthetroll&theme=aura&show_icons=true&rank_icon=percentile&hide_border=false) ![sidonthetroll](https://github-readme-streak-stats-mgna.vercel.app?user=SidonTheTroll&theme=aura) | ![Top Languages](https://readme-card-gamma.vercel.app/api/top-langs/?username=sidonthetroll&theme=aura&hide_border=false&layout=compact) ![Wakatime Stats](https://readme-card-gamma.vercel.app/api/wakatime?username=sidonthetroll&theme=aura&hide_border=false&layout=compact) |
-| - | - |
+| <img src='https://readme-card-gamma.vercel.app/api/?username=sidonthetroll&theme=blue-green&show_icons=true&rank_icon=percentile&hide_border=false'> <img src='https://readme-card-gamma.vercel.app/api/top-langs/?username=sidonthetroll&theme=blue-green&hide_border=false&layout=pie'> | <img src="https://github-readme-streak-stats-mgna.vercel.app?user=SidonTheTroll&theme=blue-green"> ![Wakatime Stats](https://readme-card-gamma.vercel.app/api/wakatime?username=sidonthetroll&theme=blue-green&hide_border=false&layout=compact) | 
+|-|-|
 
-<img src = 'https://wakatime.com/share/@sidonthetroll/83a74bc7-5c61-4e5d-a8ac-f1360d8c538d.svg'>
+![stats](./profile-3d-contrib/profile-night-green.svg)
+
