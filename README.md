@@ -19,7 +19,7 @@ Tools & Languages:
 
 ## Github Statistics
 
-| <img src='https://readme-card-gamma.vercel.app/api/?username=sidonthetroll&theme=blue-green&show_icons=true&rank_icon=percentile&hide_border=false'> <img src='https://readme-card-gamma.vercel.app/api/top-langs/?username=sidonthetroll&theme=blue-green&hide_border=false&layout=pie'> | <img src="https://github-readme-streak-stats-mgna.vercel.app?user=SidonTheTroll&theme=blue-green"> ![Wakatime Stats](https://readme-card-gamma.vercel.app/api/wakatime?username=sidonthetroll&theme=blue-green&hide_border=false&layout=compact) | 
+| <img src='https://readme-card-gamma.vercel.app/api/?username=sidonthetroll&theme=aura&show_icons=true&rank_icon=percentile&hide_border=false'> <img src='https://readme-card-gamma.vercel.app/api/top-langs/?username=sidonthetroll&theme=aura&hide_border=false&layout=pie'> | <img src="https://github-readme-streak-stats-mgna.vercel.app?user=SidonTheTroll&theme=aura"> ![Wakatime Stats](https://readme-card-gamma.vercel.app/api/wakatime?username=sidonthetroll&theme=aura&hide_border=false&layout=compact) | 
 |-|-|
 
 ![stats](./profile-3d-contrib/profile-night-green.svg)
