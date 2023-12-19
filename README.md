@@ -12,6 +12,8 @@ Coding hobbyist and GNU/Linux enthusiast.
 
 - "GUI is just exercise of the Index finger."
 
+Sky is the limit unless there are school assignments, no electricity or I just don't feel like it.
+
 Tools & Languages:  
 [![My Skills](https://skillicons.dev/icons?i=docker,mysql,linux,bash,neovim,git,py,md,&theme=dark)](https://skillicons.dev)
 
