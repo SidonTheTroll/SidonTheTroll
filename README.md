@@ -1,7 +1,7 @@
 # About me
 
 <a href="https://discord.com/users/728604179186188368">
-  <img align="right" src="https://lanyard.cnrad.dev/api/728604179186188368?idleMessage=Probably%20doing%20homework%20or%20coding." alt="Discord Status">
+  <img align="right" src="https://lanyard.cnrad.dev/api/728604179186188368?theme=dark&bg=29032b&animated=false&hideDiscrim=true&borderRadius=15px&idleMessage=Probably%20doing%20homework%20or%20coding." alt="Discord Status">
 </a>
 
 Hello world.
