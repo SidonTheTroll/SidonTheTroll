@@ -21,7 +21,11 @@ Tools & Languages:
 
 ## Github Statistics
 
-| <img src='https://github-readme-stats.vercel.app/api/?username=sidonthetroll&theme=aura&show_icons=true&rank_icon=percentile&hide_border=false&border_radius=5'> <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=sidonthetroll&theme=aura&hide_border=false&layout=pie&border_radius=5' width=385> | <img src="https://streak-stats.demolab.com?user=sidonthetroll&theme=aura&border_radius=5"> ![Wakatime Stats](https://readme-card-gamma.vercel.app/api/wakatime?username=sidonthetroll&theme=aura&hide_border=false&layout=compact) | 
+<div align=center>
+
+| <img src='https://github-readme-stats.vercel.app/api/?username=sidonthetroll&theme=aura&show_icons=true&rank_icon=percentile&hide_border=false&border_radius=5' width=450> <div style="page-break-after: always;"></div> <img src="https://streak-stats.demolab.com?user=sidonthetroll&theme=aura&border_radius=5" width=450> | <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=sidonthetroll&theme=aura&hide_border=false&layout=pie&border_radius=5'> | 
 |-|-|
+
+</div>
 
 ![stats](./profile-3d-contrib/profile-night-green.svg)
