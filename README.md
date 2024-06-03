@@ -7,7 +7,7 @@ Hello world.
 
 Coding hobbyist and GNU/Linux enthusiast.
 
-- Full-time Penguin User
+- Using Windows is an obligation to be chained. 
 
 - "GUI is just exercise of the Index finger."
 
