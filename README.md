@@ -21,7 +21,7 @@ Sky is the limit unless there are school assignments, no electricity or I just d
 ## Github Statistics
 <div align=center>
 
-| <img src='https://github-readme-stats.vercel.app/api/?username=sidonthetroll&theme=aura&show_icons=true&rank_icon=percentile&hide_border=false&border_radius=5' width=450> <div style="page-break-after: always;"></div> <img src="https://streak-stats.demolab.com?user=sidonthetroll&theme=aura&border_radius=5&exclude_days=Mon,Fri" width=450> | <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=sidonthetroll&theme=aura&hide_border=false&layout=pie&border_radius=5'> | 
+| <img src='https://github-readme-stats.vercel.app/api/?username=sidonthetroll&theme=aura&show_icons=true&rank_icon=percentile&hide_border=false&border_radius=5' width=450> <div style="page-break-after: always;"></div> <img src="https://streak-stats.demolab.com?user=sidonthetroll&theme=aura&border_radius=5" width=450> | <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=sidonthetroll&theme=aura&hide_border=false&layout=pie&border_radius=5'> | 
 |-|-|
 
 </div>
