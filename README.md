@@ -1,6 +1,6 @@
 # About me
 <a href="https://discord.com/users/728604179186188368">
-  <img align="right" src="https://lanyard.kyrie25.dev/api/728604179186188368?waveColor=810003&borderRadius=15px&gradient=7E37F9-B48EF7-E568C4&bg=333332&idleMessage=Probably%20doing%20homework%20or%20coding." alt="Discord Status">
+  <img align="right" src="https://lanyard.kyrie25.dev/api/728604179186188368?waveColor=810003&borderRadius=15px&gradient=7E37F9-B48EF7-E568C4&bg=333332&idleMessage=Probably%20busy%20or%20sleeping." alt="Discord Status">
 </a>
 
 Hello world.
