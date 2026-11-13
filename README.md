@@ -16,14 +16,4 @@ Sky is the limit unless there are school assignments, no electricity or I just d
 - Tools & Languages:  
 [![My Skills](https://skillicons.dev/icons?i=docker,mysql,linux,bash,neovim,git,py,md,&theme=dark)](https://skillicons.dev)
 
-<img align='right' src="https://wakatime.com/badge/user/f541b965-608f-40b0-b814-f52e9138cf82.svg?style=for-the-badge">
-
-## Github Statistics
-<div align=center>
-
-| <img src='https://github-readme-stats.vercel.app/api/?username=sidonthetroll&theme=aura&show_icons=true&rank_icon=percentile&hide_border=false&border_radius=5' width=450> <div style="page-break-after: always;"></div> <img src="https://github-readme-streak-stats-rerun.vercel.app?user=SidonTheTroll&theme=aura&border_radius=5" width=450> | <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=sidonthetroll&theme=aura&hide_border=false&layout=pie&border_radius=5'> | 
-|-|-|
-
-</div>
-
-![stats](./profile-3d-contrib/profile-night-green.svg)
+<img src="https://github-readme-streak-stats-rerun.vercel.app?user=SidonTheTroll&theme=aura&border_radius=5" width=350><img align='right' src="https://wakatime.com/badge/user/f541b965-608f-40b0-b814-f52e9138cf82.svg?style=for-the-badge">
